@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\顺序队列\源.cpp(22,18): warning C4305: “return”: 从“int”到“bool”截断
+D:\顺序队列\源.cpp(24): warning C4715: “IsEmpty”: 不是所有的控件路径都返回值
+D:\顺序队列\源.cpp(75): warning C4715: “getFront”: 不是所有的控件路径都返回值
+D:\顺序队列\源.cpp(85): warning C4715: “getRear”: 不是所有的控件路径都返回值
+  顺序队列.vcxproj -> D:\顺序队列\x64\Debug\顺序队列.exe
